@@ -54,17 +54,17 @@ button {
 .hasil{
     width: 144px;
     color: white;
-    background: yellow;
+    background:  rgb(0, 187, 255);
     font-weight:700;
 }
 
 .main {
     color: white;
-    background: yellow;
+    background: rgb(0, 187, 255);
     font-weight: 400;
 }
 
 .operator {
     color: white;
     background: purple;
-}
+} 
